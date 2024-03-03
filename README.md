@@ -7,7 +7,7 @@
 </div>
 <div style="clear: both;"></div>
 
-Herein, I prove the existence of convergent genotype polymorphisms in the two-locus, two-allele model with random recombination and random fitness. Use the link below to download my research paper attached (entitled "Stable Equilibria under Random Fitness and Recombination Rates," published in PLOS) for more details:
+Herein, I prove the existence of convergent genotype polymorphisms in the two-locus, two-allele model with random recombination and random fitness. Use the link below to download my research paper attached (entitled "Stable Equilibria under Random Fitness and Recombination Rates") for more details:
 
 <a href="https://github.com/babelnoah/Stanford-Research-Final/files/13255869/PLOS__Stable_Equilibria_under_Random_Fitness_and_Recombination_Rates.pdf">Download Paper</a>
 
